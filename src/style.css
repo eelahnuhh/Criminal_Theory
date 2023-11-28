@@ -117,6 +117,7 @@ section.secondary {
 }
 
 footer {
+  position: absolute;
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.8)),
     url(/images/crime_scene.webp);
   background-repeat: no-repeat;
